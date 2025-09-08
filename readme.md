@@ -50,6 +50,11 @@ iot-anomalies/
 
 ---
 
+![Java](https://img.shields.io/badge/Java-17-blue)
+![Python](https://img.shields.io/badge/Python-3.11-yellow)
+![Docker](https://img.shields.io/badge/Docker-Desktop-blue)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Minikube-lightblue)
+
 ## ⚙️ Pré-requis
 - **Java 17+**
 - **Python 3.11+**
@@ -63,6 +68,7 @@ iot-anomalies/
 - ✅ Repo structuré et en ligne  
 - 🔄 Currently at **J1** : mise en place du squelette de projet  
 - ⏭️ Next step : premiers services (API Java + ML Python)  
+
 
 
 
