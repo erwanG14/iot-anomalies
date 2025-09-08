@@ -1,3 +1,7 @@
+![Java](https://img.shields.io/badge/Java-17-blue)
+![Python](https://img.shields.io/badge/Python-3.11-yellow)
+![Docker](https://img.shields.io/badge/Docker-Desktop-blue)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Minikube-lightblue)
 # IoT Anomalies
 
 ## 🚀 Objectif du projet
@@ -53,10 +57,10 @@ iot-anomalies/
 
 
 ## ⚙️ Pré-requis
-![Java](https://img.shields.io/badge/Java-17-blue)
-![Python](https://img.shields.io/badge/Python-3.11-yellow)
-![Docker](https://img.shields.io/badge/Docker-Desktop-blue)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Minikube-lightblue)
+- **Java 17+**
+- **Python 3.11+**
+- **Docker Desktop**
+- **Minikube + kubectl**
 - **Git**
 
 ---
@@ -65,6 +69,7 @@ iot-anomalies/
 - ✅ Repo structuré et en ligne  
 - 🔄 Currently at **J1** : mise en place du squelette de projet  
 - ⏭️ Next step : premiers services (API Java + ML Python)  
+
 
 
 
