@@ -45,5 +45,26 @@ iot-anomalies/
 ├── k8s/ # Manifests Kubernetes
 
 ├── .gitignore
+
 └── README.md
+
+---
+
+## ⚙️ Pré-requis
+- **Java 17+**
+- **Python 3.11+**
+- **Docker Desktop**
+- **Minikube + kubectl**
+- **Git**
+
+---
+
+## 📌 Avancement
+- ✅ Repo structuré et en ligne  
+- 🔄 Currently at **J1** : mise en place du squelette de projet  
+- ⏭️ Next step : premiers services (API Java + ML Python)  
+
+
+
+
 
