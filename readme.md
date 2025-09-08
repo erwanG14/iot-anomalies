@@ -33,10 +33,17 @@ Développer une plateforme légère pour **détecter des anomalies dans des donn
 ## 📂 Structure du repo
 
 iot-anomalies/
+
 ├── backend/ # Service Java (API Spring Boot)
+
 ├── ml/ # Service Python (FastAPI ML)
+
 ├── tools/ # Scripts utiles
+
 ├── docs/ # Documentation et schémas
+
 ├── k8s/ # Manifests Kubernetes
+
 ├── .gitignore
 └── README.md
+
