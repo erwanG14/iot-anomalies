@@ -1,0 +1,14 @@
+version: "3.9"
+services:
+  pg:
+    image: postgres:16
+    environment:
+      POSTGRES_DB: iot_dev
+      POSTGRES_USER: iot
+      POSTGRES_PASSWORD: iot
+    ports:
+      - "5432:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+volumes:
+  pgdata: {}
